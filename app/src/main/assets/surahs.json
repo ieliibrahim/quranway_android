@@ -1,0 +1,779 @@
+[
+    {
+        "surahName": "سُورَةُ الْفَاتِحَة",
+        "surahNumber": 1,
+        "pageNumber": 1,
+        "ayatCount": "7"
+    },
+    {
+        "surahName": "سُورَةُ الْبَقَرَة",
+        "surahNumber": 2,
+        "pageNumber": 2,
+        "ayatCount": "286"
+    },
+    {
+        "surahName": "سُورَةُ آلِ عِمْرَان",
+        "surahNumber": 3,
+        "pageNumber": 49,
+        "combinedSurahNumber": 2,
+        "ayatCount": "200"
+    },
+    {
+        "surahName": "سُورَةُ النِّسَاء",
+        "surahNumber": 4,
+        "pageNumber": 77,
+        "combinedSurahNumber": 3,
+        "ayatCount": "176"
+    },
+    {
+        "surahName": "سُورَةُ الْمَائدَة",
+        "surahNumber": 5,
+        "pageNumber": 107,
+        "combinedSurahNumber": 4,
+        "ayatCount": "120"
+    },
+    {
+        "surahName": "سُورَةُ الْأَنْعَام",
+        "surahNumber": 6,
+        "pageNumber": 130,
+        "ayatCount": "165"
+    },
+    {
+        "surahName": "سُورَةُ الْأَعْرَاف",
+        "surahNumber": 7,
+        "pageNumber": 154,
+        "combinedSurahNumber": 6,
+        "ayatCount": "206"
+    },
+    {
+        "surahName": "سُورَةُ الْأَنْفَال",
+        "surahNumber": 8,
+        "pageNumber": 181,
+        "combinedSurahNumber": 7,
+        "ayatCount": "75"
+    },
+    {
+        "surahName": "سُورَةُ التَّوْبَة",
+        "surahNumber": 9,
+        "pageNumber": 191,
+        "combinedSurahNumber": 8,
+        "ayatCount": "129"
+    },
+    {
+        "surahName": "سُورَةُ يُونُس",
+        "surahNumber": 10,
+        "pageNumber": 212,
+        "combinedSurahNumber": 9,
+        "ayatCount": "109"
+    },
+    {
+        "surahName": "سُورَةُ هُود",
+        "surahNumber": 11,
+        "pageNumber": 226,
+        "combinedSurahNumber": 10,
+        "ayatCount": "123"
+    },
+    {
+        "surahName": "سُورَةُ يُوسُف",
+        "surahNumber": 12,
+        "pageNumber": 241,
+        "combinedSurahNumber": 11,
+        "ayatCount": "111"
+    },
+    {
+        "surahName": "سُورَةُ الرَّعْد",
+        "surahNumber": 13,
+        "pageNumber": 255,
+        "combinedSurahNumber": 12,
+        "ayatCount": "43"
+    },
+    {
+        "surahName": "سُورَةُ إِبْرَاهِيم",
+        "surahNumber": 14,
+        "pageNumber": 262,
+        "combinedSurahNumber": 13,
+        "ayatCount": "52"
+    },
+    {
+        "surahName": "سُورَةُ الْحِجْر",
+        "surahNumber": 15,
+        "pageNumber": 269,
+        "ayatCount": "99"
+    },
+    {
+        "surahName": "سُورَةُ النَّحْل",
+        "surahNumber": 16,
+        "pageNumber": 275,
+        "ayatCount": "128"
+    },
+    {
+        "surahName": "سُورَةُ الْإِسْرَاء",
+        "surahNumber": 17,
+        "pageNumber": 290,
+        "ayatCount": "111"
+    },
+    {
+        "surahName": "سُورَةُ الْكَهْف",
+        "surahNumber": 18,
+        "pageNumber": 302,
+        "combinedSurahNumber": 17,
+        "ayatCount": "110"
+    },
+    {
+        "surahName": "سُورَةُ مَرْيَم",
+        "surahNumber": 19,
+        "pageNumber": 315,
+        "combinedSurahNumber": 18,
+        "ayatCount": "98"
+    },
+    {
+        "surahName": "سُورَةُ طه",
+        "surahNumber": 20,
+        "pageNumber": 323,
+        "ayatCount": "135"
+    },
+    {
+        "surahName": "سُورَةُ الْأَنْبِيَاء",
+        "surahNumber": 21,
+        "pageNumber": 334,
+        "ayatCount": "112"
+    },
+    {
+        "surahName": "سُورَةُ الْحَجّ",
+        "surahNumber": 22,
+        "pageNumber": 344,
+        "ayatCount": "78"
+    },
+    {
+        "surahName": "سُورَةُ الْمُؤْمِنُون",
+        "surahNumber": 23,
+        "pageNumber": 354,
+        "combinedSurahNumber": 22,
+        "ayatCount": "118"
+    },
+    {
+        "surahName": "سُورَةُ النُّور",
+        "surahNumber": 24,
+        "pageNumber": 363,
+        "combinedSurahNumber": 23,
+        "ayatCount": "64"
+    },
+    {
+        "surahName": "سُورَةُ الْفُرقَان",
+        "surahNumber": 25,
+        "pageNumber": 373,
+        "combinedSurahNumber": 24,
+        "ayatCount": "77"
+    },
+    {
+        "surahName": "سُورَةُ الشُّعَرَاء",
+        "surahNumber": 26,
+        "pageNumber": 381,
+        "combinedSurahNumber": 25,
+        "ayatCount": "227"
+    },
+    {
+        "surahName": "سُورَةُ النَّمْل",
+        "surahNumber": 27,
+        "pageNumber": 393,
+        "combinedSurahNumber": 26,
+        "ayatCount": "93"
+    },
+    {
+        "surahName": "سُورَةُ الْقَصَص",
+        "surahNumber": 28,
+        "pageNumber": 402,
+        "combinedSurahNumber": 27,
+        "ayatCount": "88"
+    },
+    {
+        "surahName": "سُورَةُ الْعَنْكَبُوت",
+        "surahNumber": 29,
+        "pageNumber": 414,
+        "combinedSurahNumber": 28,
+        "ayatCount": "69"
+    },
+    {
+        "surahName": "سُورَةُ الرُّوم",
+        "surahNumber": 30,
+        "pageNumber": 422,
+        "combinedSurahNumber": 29,
+        "ayatCount": "60"
+    },
+    {
+        "surahName": "سُورَةُ لُقْمَان",
+        "surahNumber": 31,
+        "pageNumber": 429,
+        "ayatCount": "34"
+    },
+    {
+        "surahName": "سُورَةُ السَّجْدَة",
+        "surahNumber": 32,
+        "pageNumber": 433,
+        "combinedSurahNumber": 31,
+        "ayatCount": "30"
+    },
+    {
+        "surahName": "سُورَةُ الْأَحْزَاب",
+        "surahNumber": 33,
+        "pageNumber": 436,
+        "combinedSurahNumber": 32,
+        "ayatCount": "73"
+    },
+    {
+        "surahName": "سُورَةُ سَبَأ",
+        "surahNumber": 34,
+        "pageNumber": 447,
+        "ayatCount": "54"
+    },
+    {
+        "surahName": "سُورَةُ فَاطِر",
+        "surahNumber": 35,
+        "pageNumber": 454,
+        "ayatCount": "45"
+    },
+    {
+        "surahName": "سُورَةُ يس",
+        "surahNumber": 36,
+        "pageNumber": 460,
+        "combinedSurahNumber": 35,
+        "ayatCount": "83"
+    },
+    {
+        "surahName": "سُورَةُ الصَّافَّات",
+        "surahNumber": 37,
+        "pageNumber": 466,
+        "combinedSurahNumber": 36,
+        "ayatCount": "182"
+    },
+    {
+        "surahName": "سُورَةُ ص",
+        "surahNumber": 38,
+        "pageNumber": 475,
+        "ayatCount": "88"
+    },
+    {
+        "surahName": "سُورَةُ الزُّمَر",
+        "surahNumber": 39,
+        "pageNumber": 481,
+        "combinedSurahNumber": 38,
+        "ayatCount": "75"
+    },
+    {
+        "surahName": "سُورَةُ غَافِر",
+        "surahNumber": 40,
+        "pageNumber": 490,
+        "combinedSurahNumber": 39,
+        "ayatCount": "85"
+    },
+    {
+        "surahName": "سُورَةُ فُصِّلَت",
+        "surahNumber": 41,
+        "pageNumber": 500,
+        "combinedSurahNumber": 40,
+        "ayatCount": "54"
+    },
+    {
+        "surahName": "سُورَةُ الشُّورَى",
+        "surahNumber": 42,
+        "pageNumber": 507,
+        "ayatCount": "53"
+    },
+    {
+        "surahName": "سُورَةُ الزُّخْرُف",
+        "surahNumber": 43,
+        "pageNumber": 513,
+        "combinedSurahNumber": 42,
+        "ayatCount": "89"
+    },
+    {
+        "surahName": "سُورَةُ الدُّخَان",
+        "surahNumber": 44,
+        "pageNumber": 521,
+        "combinedSurahNumber": 43,
+        "ayatCount": "59"
+    },
+    {
+        "surahName": "سُورَةُ الْجَاثِيَة",
+        "surahNumber": 45,
+        "pageNumber": 524,
+        "combinedSurahNumber": 44,
+        "ayatCount": "37"
+    },
+    {
+        "surahName": "سُورَةُ الْأَحقَاف",
+        "surahNumber": 46,
+        "pageNumber": 528,
+        "combinedSurahNumber": 45,
+        "ayatCount": "35"
+    },
+    {
+        "surahName": "سُورَةُ مُحَمَّد",
+        "surahNumber": 47,
+        "pageNumber": 533,
+        "combinedSurahNumber": 46,
+        "ayatCount": "38"
+    },
+    {
+        "surahName": "سُورَةُ الْفَتْح",
+        "surahNumber": 48,
+        "pageNumber": 538,
+        "combinedSurahNumber": 47,
+        "ayatCount": "29"
+    },
+    {
+        "surahName": "سُورَةُ الْحُجُرَات",
+        "surahNumber": 49,
+        "pageNumber": 542,
+        "combinedSurahNumber": 48,
+        "ayatCount": "18"
+    },
+    {
+        "surahName": "سُورَةُ ق",
+        "surahNumber": 50,
+        "pageNumber": 545,
+        "combinedSurahNumber": 49,
+        "ayatCount": "45"
+    },
+    {
+        "surahName": "سُورَةُ الذَّارِيَات",
+        "surahNumber": 51,
+        "pageNumber": 549,
+        "combinedSurahNumber": 50,
+        "ayatCount": "60"
+    },
+    {
+        "surahName": "سُورَةُ الطُّور",
+        "surahNumber": 52,
+        "pageNumber": 552,
+        "combinedSurahNumber": 51,
+        "ayatCount": "49"
+    },
+    {
+        "surahName": "سُورَةُ النَّجْم",
+        "surahNumber": 53,
+        "pageNumber": 555,
+        "combinedSurahNumber": 52,
+        "ayatCount": "62"
+    },
+    {
+        "surahName": "سُورَةُ الْقَمَر",
+        "surahNumber": 54,
+        "pageNumber": 558,
+        "combinedSurahNumber": 53,
+        "ayatCount": "55"
+    },
+    {
+        "surahName": "سُورَةُ الرَّحْمَن",
+        "surahNumber": 55,
+        "pageNumber": 561,
+        "combinedSurahNumber": 54,
+        "ayatCount": "78"
+    },
+    {
+        "surahName": "سُورَةُ الْوَاقِعَة",
+        "surahNumber": 56,
+        "pageNumber": 565,
+        "combinedSurahNumber": 55,
+        "ayatCount": "96"
+    },
+    {
+        "surahName": "سُورَةُ الْحَدِيد",
+        "surahNumber": 57,
+        "pageNumber": 569,
+        "combinedSurahNumber": 56,
+        "ayatCount": "29"
+    },
+    {
+        "surahName": "سُورَةُ الْمُجَادِلَة",
+        "surahNumber": 58,
+        "pageNumber": 574,
+        "ayatCount": "22"
+    },
+    {
+        "surahName": "سُورَةُ الْحَشْر",
+        "surahNumber": 59,
+        "pageNumber": 578,
+        "ayatCount": "24"
+    },
+    {
+        "surahName": "سُورَةُ المُمتَحَنَة",
+        "surahNumber": 60,
+        "pageNumber": 581,
+        "combinedSurahNumber": 59,
+        "ayatCount": "13"
+    },
+    {
+        "surahName": "سُورَةُ الصَّف",
+        "surahNumber": 61,
+        "pageNumber": 584,
+        "combinedSurahNumber": 60,
+        "ayatCount": "14"
+    },
+    {
+        "surahName": "سُورَةُ الْجُمُعَة",
+        "surahNumber": 62,
+        "pageNumber": 586,
+        "combinedSurahNumber": 61,
+        "ayatCount": "11"
+    },
+    {
+        "surahName": "سُورَةُ الْمُنَافِقُون",
+        "surahNumber": 63,
+        "pageNumber": 588,
+        "combinedSurahNumber": 62,
+        "ayatCount": "11"
+    },
+    {
+        "surahName": "سُورَةُ التَّغَابُن",
+        "surahNumber": 64,
+        "pageNumber": 589,
+        "combinedSurahNumber": 63,
+        "ayatCount": "18"
+    },
+    {
+        "surahName": "سُورَةُ الطَّلَاق",
+        "surahNumber": 65,
+        "pageNumber": 592,
+        "ayatCount": "12"
+    },
+    {
+        "surahName": "سُورَةُ التَّحْرِيم",
+        "surahNumber": 66,
+        "pageNumber": 594,
+        "combinedSurahNumber": 65,
+        "ayatCount": "12"
+    },
+    {
+        "surahName": "سُورَةُ الْمُلْك",
+        "surahNumber": 67,
+        "pageNumber": 596,
+        "combinedSurahNumber": 66,
+        "ayatCount": "30"
+    },
+    {
+        "surahName": "سُورَةُ الْقَلَم",
+        "surahNumber": 68,
+        "pageNumber": 599,
+        "combinedSurahNumber": 67,
+        "ayatCount": "52"
+    },
+    {
+        "surahName": "سُورَةُ الْحَاقَّة",
+        "surahNumber": 69,
+        "pageNumber": 602,
+        "combinedSurahNumber": 68,
+        "ayatCount": "52"
+    },
+    {
+        "surahName": "سُورَةُ الْمَعَارِج",
+        "surahNumber": 70,
+        "pageNumber": 604,
+        "combinedSurahNumber": 69,
+        "ayatCount": "44"
+    },
+    {
+        "surahName": "سُورَةُ نُوح",
+        "surahNumber": 71,
+        "pageNumber": 606,
+        "combinedSurahNumber": 70,
+        "ayatCount": "28"
+    },
+    {
+        "surahName": "سُورَةُ الْجِنّ",
+        "surahNumber": 72,
+        "pageNumber": 608,
+        "combinedSurahNumber": 71,
+        "ayatCount": "28"
+    },
+    {
+        "surahName": "سُورَةُ الْمُزَّمِّل",
+        "surahNumber": 73,
+        "pageNumber": 611,
+        "combinedSurahNumber": 72,
+        "ayatCount": "20"
+    },
+    {
+        "surahName": "سُورَةُ الْمُدَّثِّر",
+        "surahNumber": 74,
+        "pageNumber": 613,
+        "combinedSurahNumber": 73,
+        "ayatCount": "56"
+    },
+    {
+        "surahName": "سُورَةُ الْقِيَامَة",
+        "surahNumber": 75,
+        "pageNumber": 615,
+        "combinedSurahNumber": 74,
+        "ayatCount": "40"
+    },
+    {
+        "surahName": "سُورَةُ الْإِنْسَان",
+        "surahNumber": 76,
+        "pageNumber": 617,
+        "ayatCount": "31"
+    },
+    {
+        "surahName": "سُورَةُ الْمُرْسَلَات",
+        "surahNumber": 77,
+        "pageNumber": 619,
+        "combinedSurahNumber": 76,
+        "ayatCount": "50"
+    },
+    {
+        "surahName": "سُورَةُ النَّبَإ",
+        "surahNumber": 78,
+        "pageNumber": 621,
+        "combinedSurahNumber": 77,
+        "ayatCount": "40"
+    },
+    {
+        "surahName": "سُورَةُ النَّازِعَات",
+        "surahNumber": 79,
+        "pageNumber": 623,
+        "ayatCount": "46"
+    },
+    {
+        "surahName": "سُورَةُ عَبَس",
+        "surahNumber": 80,
+        "pageNumber": 624,
+        "combinedSurahNumber": 79,
+        "ayatCount": "42"
+    },
+    {
+        "surahName": "سُورَةُ التَّكْوِير",
+        "surahNumber": 81,
+        "pageNumber": 626,
+        "combinedSurahNumber": 80,
+        "ayatCount": "29"
+    },
+    {
+        "surahName": "سُورَةُ الْانْفِطَار",
+        "surahNumber": 82,
+        "pageNumber": 627,
+        "combinedSurahNumber": 81,
+        "ayatCount": "19"
+    },
+    {
+        "surahName": "سُورَةُ الْمُطَفِّفِين",
+        "surahNumber": 83,
+        "pageNumber": 628,
+        "combinedSurahNumber": 82,
+        "ayatCount": "36"
+    },
+    {
+        "surahName": "سُورَةُ الْانْشِقَاق",
+        "surahNumber": 84,
+        "pageNumber": 630,
+        "combinedSurahNumber": 83,
+        "ayatCount": "25"
+    },
+    {
+        "surahName": "سُورَةُ الْبُرُوج",
+        "surahNumber": 85,
+        "pageNumber": 631,
+        "combinedSurahNumber": 84,
+        "ayatCount": "22"
+    },
+    {
+        "surahName": "سُورَةُ الطَّارِق",
+        "surahNumber": 86,
+        "pageNumber": 632,
+        "combinedSurahNumber": 85,
+        "ayatCount": "17"
+    },
+    {
+        "surahName": "سُورَةُ الْأَعْلَى",
+        "surahNumber": 87,
+        "pageNumber": 633,
+        "combinedSurahNumber": 86,
+        "ayatCount": "19"
+    },
+    {
+        "surahName": "سُورَةُ الْغَاشِيَة",
+        "surahNumber": 88,
+        "pageNumber": 634,
+        "ayatCount": "26"
+    },
+    {
+        "surahName": "سُورَةُ الْفَجْر",
+        "surahNumber": 89,
+        "pageNumber": 635,
+        "ayatCount": "30"
+    },
+    {
+        "surahName": "سُورَةُ الْبَلَد",
+        "surahNumber": 90,
+        "pageNumber": 636,
+        "combinedSurahNumber": 89,
+        "ayatCount": "20"
+    },
+    {
+        "surahName": "سُورَةُ الشَّمْس",
+        "surahNumber": 91,
+        "pageNumber": 637,
+        "combinedSurahNumber": 90,
+        "ayatCount": "15"
+    },
+    {
+        "surahName": "سُورَةُ اللَّيْل",
+        "surahNumber": 92,
+        "pageNumber": 638,
+        "combinedSurahNumber": 91,
+        "ayatCount": "21"
+    },
+    {
+        "surahName": "سُورَةُ الضُّحَ",
+        "surahNumber": 93,
+        "pageNumber": 638,
+        "combinedSurahNumber": 92,
+        "ayatCount": "11"
+    },
+    {
+        "surahName": "سُورَةُ الشَّرْح",
+        "surahNumber": 94,
+        "pageNumber": 639,
+        "combinedSurahNumber": 93,
+        "ayatCount": "8"
+    },
+    {
+        "surahName": "سُورَةُ التِّين",
+        "surahNumber": 95,
+        "pageNumber": 639,
+        "combinedSurahNumber": 94,
+        "ayatCount": "8"
+    },
+    {
+        "surahName": "سُورَةُ الْعَلَق",
+        "surahNumber": 96,
+        "pageNumber": 640,
+        "combinedSurahNumber": 95,
+        "ayatCount": "19"
+    },
+    {
+        "surahName": "سُورَةُ الْقَدْر",
+        "surahNumber": 97,
+        "pageNumber": 641,
+        "combinedSurahNumber": 98,
+        "ayatCount": "5"
+    },
+    {
+        "surahName": "سُورَةُ الْبَيِّنَة",
+        "surahNumber": 98,
+        "pageNumber": 641,
+        "combinedSurahNumber": 97,
+        "ayatCount": "8"
+    },
+    {
+        "surahName": "سُورَةُ الزَّلْزَلَة",
+        "surahNumber": 99,
+        "pageNumber": 642,
+        "combinedSurahNumber": 98,
+        "ayatCount": "8"
+    },
+    {
+        "surahName": "سُورَةُ الْعَادِيَات",
+        "surahNumber": 100,
+        "pageNumber": 643,
+        "combinedSurahNumber": 101,
+        "ayatCount": "11"
+    },
+    {
+        "surahName": "سُورَةُ الْقَارِعَة",
+        "surahNumber": 101,
+        "pageNumber": 643,
+        "combinedSurahNumber": 100,
+        "ayatCount": "11"
+    },
+    {
+        "surahName": "سُورَةُ التَّكَاثُر",
+        "surahNumber": 102,
+        "pageNumber": 644,
+        "combinedSurahNumber": 103,
+        "ayatCount": "8"
+    },
+    {
+        "surahName": "سُورَةُ الْعَصْر",
+        "surahNumber": 103,
+        "pageNumber": 644,
+        "combinedSurahNumber": 102,
+        "ayatCount": "3"
+    },
+    {
+        "surahName": "سُورَةُ الْهُمَزَة",
+        "surahNumber": 104,
+        "pageNumber": 645,
+        "combinedSurahNumber": 105,
+        "ayatCount": "9"
+    },
+    {
+        "surahName": "سُورَةُ الْفِيل",
+        "surahNumber": 105,
+        "pageNumber": 645,
+        "combinedSurahNumber": 104,
+        "ayatCount": "5"
+    },
+    {
+        "surahName": "سُورَةُ قُرَيْش",
+        "surahNumber": 106,
+        "pageNumber": 646,
+        "combinedSurahNumber": 107,
+        "ayatCount": "4"
+    },
+    {
+        "surahName": "سُورَةُ الْمَاعُون",
+        "surahNumber": 107,
+        "pageNumber": 646,
+        "combinedSurahNumber": 106,
+        "ayatCount": "7"
+    },
+    {
+        "surahName": "سُورَةُ الْكَوْثَر",
+        "surahNumber": 108,
+        "pageNumber": 646,
+        "combinedSurahNumber": 107,
+        "ayatCount": "3"
+    },
+    {
+        "surahName": "سُورَةُ الْكَافِرُون",
+        "surahNumber": 109,
+        "pageNumber": 647,
+        "combinedSurahNumber": 110,
+        "ayatCount": "6"
+    },
+    {
+        "surahName": "سُورَةُ النَّصْر",
+        "surahNumber": 110,
+        "pageNumber": 647,
+        "combinedSurahNumber": 109,
+        "ayatCount": "3"
+    },
+    {
+        "surahName": "سُورَةُ الْمَسَد",
+        "surahNumber": 111,
+        "pageNumber": 647,
+        "combinedSurahNumber": 110,
+        "ayatCount": "5"
+    },
+    {
+        "surahName": "سُورَةُ الْإِخْلَاص",
+        "surahNumber": 112,
+        "pageNumber": 648,
+        "combinedSurahNumber": 113,
+        "ayatCount": "4"
+    },
+    {
+        "surahName": "سُورَةُ الْفَلَق",
+        "surahNumber": 113,
+        "pageNumber": 648,
+        "combinedSurahNumber": 112,
+        "ayatCount": "5"
+    },
+    {
+        "surahName": "سُورَةُ النَّاس",
+        "surahNumber": 114,
+        "pageNumber": 648,
+        "combinedSurahNumber": 113,
+        "ayatCount": "6"
+    }
+]

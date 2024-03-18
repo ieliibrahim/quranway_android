@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuranWay</string>
+    <string name="app_url">www.quranway.com</string>
+    <string name="app_copyright">جميع الحقوق محفوظة</string>
+    <string name="q_list_m">م</string>
+    <string name="q_list_surah">السورة</string>
+    <string name="q_list_ayat">آياتها</string>
+</resources>
